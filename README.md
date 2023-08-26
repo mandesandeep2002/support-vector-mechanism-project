@@ -1,7 +1,7 @@
 # support-vector-mechanism-project
 
 # Project Title:
-# using Supporet vector Algorithm of Supervised Machine Learning ,predict "lris.csv"dataset to find out whether the species will be same or different
+# using Support vector Algorithm of Supervised Machine Learning ,predict "lris.csv"dataset to find out whether the species will be same or different
 
 # TASKS:
 
